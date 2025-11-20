@@ -1,1 +1,7 @@
-
+Ubuntu IP configs:
+  * 
+''' 
+Network: 
+  version: 2
+  renderer: networkd
+''' 
