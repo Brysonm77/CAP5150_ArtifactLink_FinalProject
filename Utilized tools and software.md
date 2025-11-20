@@ -1,7 +1,10 @@
-All tools used downloaded:
- * OS images
-   * Ubuntu =
-   * Windows = 
+All tools software used:
+* OS images
+  * Ubuntu = Version 22.04.5 LTS
+  * Windows = Version 24H2 (OS Build 26100.1742)
+* VirtualBox
+  * https://www.virtualbox.org/wiki/Downloads
+    * Windows version downloaded 
 * WireGuard
   * Downloaded using access to the internet after initial configuration of each client
   * https://www.wireguard.com/install/
