@@ -3,6 +3,7 @@ Server (Ubuntu) Configs:
   * Base Memory = 4807 Mb
   * Processors = 4
   * Internal Network = LabVPN
+
 Client (Windows) Configs:
   * Base Memory = 4096
   * Processors = 2
