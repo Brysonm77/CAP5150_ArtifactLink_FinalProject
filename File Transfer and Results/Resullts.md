@@ -16,3 +16,5 @@
     * WG key error = 00:57:10
     * SCP failure = 00:33:59
     * UFW blocking all incoming traffic = 00:09:40
+ * Client 2:
+
