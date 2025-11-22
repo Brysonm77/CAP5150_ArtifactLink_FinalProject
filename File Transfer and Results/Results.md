@@ -28,11 +28,11 @@
     * OS installation = 00:12:00
     * WG setup and connection = 00:15:30
     * OpenSSH setup and connection = 00:00:16
- * Client 4:
-   * Deployment/Networking (DOES NOT INCLUDE OS INSTALLATION) = 00:28:01
-   * OS installation = 00:13:05
-   * WG setup and installation = 00:13:05
-   * OpenSSH setup and installation = 00:00:13
+  * Client 4:
+    * Deployment/Networking (DOES NOT INCLUDE OS INSTALLATION) = 00:28:01
+    * OS installation = 00:13:05
+    * WG setup and installation = 00:13:05
+    * OpenSSH setup and installation = 00:00:13
 
 ## File Transfers
 
