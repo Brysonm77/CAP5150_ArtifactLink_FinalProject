@@ -97,3 +97,6 @@ All results use the following format HH:MM:SS. Any milisecond is automatically r
 
 ## Security 
 ### This section DOES NOT have quantifiable data. It consists of observable results
+
+* UFW implementation
+* Packet capture
