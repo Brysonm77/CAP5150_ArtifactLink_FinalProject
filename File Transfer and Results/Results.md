@@ -16,6 +16,8 @@
     * WG key error = 00:57:10
     * SCP failure = 00:33:59
     * UFW blocking all incoming traffic = 00:09:40
+   
+* Complexity times for WG and OpenSSH deployment
  * Client 2:
    * Deployment/Networking (DOES NOT INCLUDE OS INSTALLATION): 58:20
    * OS installation: 00:11:16
