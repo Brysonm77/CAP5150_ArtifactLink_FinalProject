@@ -94,3 +94,6 @@ All results use the following format HH:MM:SS. Any milisecond is automatically r
     * 1 Gb = 100% | 76.2 Mb/s | 00:00:13
     * 5 Gb = 100% | 78.0 Mb/s | 00:01:05
     * 10 Gb = 100% | 74.4 Mb/s | 00:02:17 
+
+## Security 
+### This section DOES NOT have quantifiable data. It consists of observable results
