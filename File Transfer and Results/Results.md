@@ -1,6 +1,6 @@
 # Results found throughout the project
 
-All results use the following format HH:MM:SS. any milisecond is automatically rounded up to the nearest whole second.
+All results use the following format HH:MM:SS. Any milisecond is automatically rounded up to the nearest whole second.
 
 ## Complexity
 * Configuration of first client and server break down. Includes debugging and completion times
@@ -35,6 +35,20 @@ All results use the following format HH:MM:SS. any milisecond is automatically r
     * OpenSSH setup and installation = 00:00:13
 
 ## File Transfers
+
+* Averages
+  * WG =
+    * 10 Mb = 100% | 33.93 Mb/s | 00:00:00
+    * 1 Gb = 100% | 37.25 Mb/s | 00:00:27
+    * 5 Gb = 100% | 36.72 Mb/s | 00:02:20
+    * 10 Gb = 100% | 36.00 Mb/s | 00:04:45 
+  * OpenSSH
+    * 10Mb = 100% | 81.68 Mb/s | 00:00:00
+    * 1 Gb = 100% | 83.48Mb/s | 00:00:12
+    * 5 Gb  = 100% | 79.28 Mb/s | 00:01:04
+    * 10 Gb = 100% | 76.13 Mb/s | 00:02:14  
+ 
+ The following is how long each individual client took to process all files  
 * Client 1:
   * WG
     * 10 Mb = 100% | 34.6 Mb/s | 00:00:00
