@@ -35,7 +35,7 @@ All results use the following format HH:MM:SS. Any milisecond is automatically r
     * OpenSSH setup and installation = 00:00:13
 
 ## File Transfers
-### All results use the following formart <File Size> = Copy completion | MegaByters per second | total time to complete
+### All results use the following formart [File Size] = Copy completion | MegaByters per second | total time to complete
 
 * Averages
   * WG =
