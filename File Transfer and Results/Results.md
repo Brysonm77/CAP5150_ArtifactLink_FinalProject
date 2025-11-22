@@ -19,10 +19,10 @@
    
 * Complexity times for WG and OpenSSH deployment
   * Client 2:
-   * Deployment/Networking (DOES NOT INCLUDE OS INSTALLATION): 58:20
-   * OS installation: 00:11:16
-   * WG setup and connection = 00:22:53
-   * OpenSSH setup and connection = 00:01:34 
+    * Deployment/Networking (DOES NOT INCLUDE OS INSTALLATION): 58:20
+    * OS installation: 00:11:16
+    * WG setup and connection = 00:22:53
+    * OpenSSH setup and connection = 00:01:34 
  * 
  * Client 3:
    * Deployment/Networking (DOES NOT INCLUDE OS INSTALLATION): 00:47:49
